@@ -30,4 +30,4 @@
 
 <img src="https://myreadme.vercel.app/api/embed/sideffect263?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW))
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
