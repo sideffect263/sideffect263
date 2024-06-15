@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [M33t](https://m33t.webflow.io/)
 
-- 👨‍💻 All of my projects are available at [https://alfatech.webflow.io/](https://alfatech.webflow.io/)
+- 👨‍💻 All of my projects are available at [Alfa](https://alfatech.webflow.io/)
 
 - 📫 How to reach me **arielbiton03@gmail.com**
 
