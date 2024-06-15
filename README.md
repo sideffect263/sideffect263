@@ -42,4 +42,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sideffect263&show_icons=true&locale=en&layout=compact" alt="sideffect263" /></p>
 
 [![sideffect263's GitHub | Stats](https://stats.quine.sh/sideffect263/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=sideffect263)
-[![sideffect263's GitHub | Languages Over Time](https://stats.quine.sh/sideffect263/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sideffect263)
