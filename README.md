@@ -30,12 +30,4 @@
 
 <img src="https://myreadme.vercel.app/api/embed/sideffect263?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<div>
-    &emsp;&emsp;&emsp;
-    <a href="https://open.spotify.com/user/mlysn548bp49k25epo3lvpwgq#gh-dark-mode-only"> 
-        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only" alt="Current Spotify Song">
-    </a>
-    <a href="https://open.spotify.com/user/mlysn548bp49k25epo3lvpwgq#gh-light-mode-only"> 
-        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true#gh-light-mode-only" alt="Current Spotify Song">
-    </a>
-</div>
+
