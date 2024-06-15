@@ -30,7 +30,10 @@
 
 <img src="https://myreadme.vercel.app/api/embed/sideffect263?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-
+<p>
+  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mlysn548bp49k25epo3lvpwgq)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</p>
