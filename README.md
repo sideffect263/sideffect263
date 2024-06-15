@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sideffect263&show_icons=true&locale=en&layout=compact" alt="sideffect263" /></p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sideffect263&theme=tokyonight" alt="mystreak"/>
+
+<img src="https://myreadme.vercel.app/api/embed/sideffect263?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
