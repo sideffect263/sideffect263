@@ -29,3 +29,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sideffect263&theme=tokyonight" alt="mystreak"/>
 
 <img src="https://myreadme.vercel.app/api/embed/sideffect263?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW)
