@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sideffect263&label=Profile%20views&color=0e75b6&style=flat" alt="sideffect263" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sideffect263-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sideffect263&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [ofek lift store](https://ofek-lift-order.onrender.com/)
 
