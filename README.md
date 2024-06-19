@@ -37,3 +37,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/sideffect263/sideffect263/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sideffect263/sideffect263/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
